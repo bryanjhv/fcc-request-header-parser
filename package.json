@@ -1,0 +1,28 @@
+{
+  "name": "fcc-request-header-parser",
+  "version": "0.0.1",
+  "description": "Solution to FCC's Request Header Parser Microservice API Project",
+  "keywords": [
+    "freecodecamp",
+    "express",
+    "api",
+    "microservice",
+    "request",
+    "header",
+    "parser",
+    "useragent",
+    "ipaddress"
+  ],
+  "homepage": "https://github.com/bryanjhv/fcc-request-header-parser",
+  "license": "MIT",
+  "author": "Bryan Horna <bryanjhv@gmail.com> (https://bryanjhv.github.io)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bryanjhv/fcc-request-header-parser.git"
+  },
+  "engines": {
+    "node": "6.9.0",
+    "npm": "3.10.8"
+  },
+  "private": true
+}
