@@ -16,9 +16,16 @@
   "homepage": "https://github.com/bryanjhv/fcc-request-header-parser",
   "license": "MIT",
   "author": "Bryan Horna <bryanjhv@gmail.com> (https://bryanjhv.github.io)",
+  "main": "server.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/bryanjhv/fcc-request-header-parser.git"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
   },
   "engines": {
     "node": "6.9.0",
